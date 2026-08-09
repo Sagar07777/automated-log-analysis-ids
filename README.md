@@ -27,11 +27,17 @@ Built as a hands-on lab project simulating a real attacker/defender scenario usi
 
 ## Architecture
 Hydra (attacker) → SSH failed logins → auth.log
+
 ↓
+
 detect.py (Python, regex + sliding window)
+
 ↓
+
 Threshold exceeded? → iptables block + SQLite log
+
 ↓
+
 dashboard.py (Streamlit, live visualization)
 ## How it works
 
