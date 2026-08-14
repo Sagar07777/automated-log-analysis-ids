@@ -1,6 +1,6 @@
 # 🛡️ Automated Log Analysis & Incident Response Tool
 
-Automated SSH brute-force detection and response system — detects, blocks, and visualizes SSH brute-force attacks in real time using Python, SQLite, and Streamlit.
+Automated SSH brute-force detection and response system — detects,, blocks, and visualizes SSH brute-force attacks in real time using Python, SQLite, and Streamlit.
 
 ## Screenshots
 
